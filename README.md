@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hieuworks/Leetcode_C_Cpp/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hieuworks/Leetcode_C_Cpp/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/hieuworks/Leetcode_C_Cpp/tree/master/0217-contains-duplicate) |
+| [0575-distribute-candies](https://github.com/hieuworks/Leetcode_C_Cpp/tree/master/0575-distribute-candies) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hieuworks/Leetcode_C_Cpp/tree/master/0217-contains-duplicate) |
+| [0575-distribute-candies](https://github.com/hieuworks/Leetcode_C_Cpp/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
